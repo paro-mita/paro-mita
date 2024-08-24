@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @paro-mita
 - 👀 I’m interested in Java/Front-End
 - 🌱 I’m currently learning Java and DSA
-Hello
 
 
 <!---
